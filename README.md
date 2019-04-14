@@ -3,59 +3,32 @@
 ## 1 Fonctions obligatoire
 
 • memset
-
 • bzero
-
 • memcpy
-
 • memccpy
-
 • memmove
-
 • memchr
-
 • memcmp
-
 • strlen
-
 • strdup
-
 • strcpy
-
 • strncpy
-
 • strcat
-
 • strncat
-
 • strlcat
-
 • strchr
-
 • strrchr
-
 • strstr
-
 • strnstr
-
 • strcmp
-
 • strncmp
-
 • atoi
-
 • isalpha
-
 • isdigit
-
 • isalnum
-
 • isascii
-
 • isprint
-
 • toupper
-
 • tolower
 
 ## 2 Fonctions supplémentaires
@@ -71,8 +44,7 @@ Fonctions libc malloc(3)
 
 • ft_memdel
 Prototype void ft_memdel(void **ap);
-Description Prend en paramètre l’adresse d’un pointeur dont la zone pointée doit être libérée avec free(3), puis le pointeur est mis à
-NULL.
+Description Prend en paramètre l’adresse d’un pointeur dont la zone pointée doit être libérée avec free(3), puis le pointeur est mis à NULL.
 Param. #1 L’adresse d’un pointeur dont il faut libérer la mémoire puis le
 mettre à NULL.
 Retour Rien.
