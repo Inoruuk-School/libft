@@ -335,3 +335,5 @@ liste pour créer une nouvelle liste.
 Retour La nouvelle liste.
 Fonctions libc malloc(3), free(3).
 
+• get_next_line : https://github.com/Inoruuk/GNL
+• ft_printf : https://github.com/Inoruuk/ft_printf
